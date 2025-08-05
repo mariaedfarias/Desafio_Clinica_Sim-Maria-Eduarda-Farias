@@ -1,6 +1,6 @@
 # 📊 Desafio Técnico – Analista de Dados Jr
 
-Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de **Analista de Dados Júnior**. O objetivo é diagnosticar a alta taxa de inadimplência de uma empresa de assinaturas mensais com base em uma base fictícia de 500 clientes.
+Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de **Analista de Dados Júnior**. O objetivo é diagnosticar a alta taxa de inadimplência de uma empresa de assinaturas mensais com base em uma base fictícia de clientes.
 
 ---
 
@@ -34,7 +34,7 @@ Foram exploradas métricas como:
 
 Gráficos gerados com `matplotlib` e organizados em uma única janela (`subplots`).
 
-> Código disponível em: `ETL_analise.py`
+> Código disponível em: `ETL+Analise Exploratoria (Arquivo Python).py`
 
 ---
 
