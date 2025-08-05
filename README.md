@@ -4,6 +4,9 @@ Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de *
 
 ---
 
+> 🔗 [Clique aqui para visualizar o dashboard](https://lookerstudio.google.com/s/t4P213IoPzc)
+
+
 ## ✅ Etapas do Projeto
 
 ### 1. **ETL (Limpeza e Tratamento dos Dados)**
